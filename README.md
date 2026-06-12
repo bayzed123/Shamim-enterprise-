@@ -5,7 +5,7 @@ Shamim Enterprise is a leading manufacturer of high-quality industrial rubber co
 ## 🌐 Live Website
 [Shamim Enterprise on GitHub Pages](https://bayzed123.github.io/Shamim-enterprise-/)
 
- # coming soon Open source Architecture Now just Use (Index.html)
+ # coming soon Open source Architecture Now just Use [Live now using](Index.html)
 
 ## 👥 Support
 For support and inquiries:
