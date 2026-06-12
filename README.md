@@ -2,7 +2,7 @@
 # Shamim Enterprise - Industrial Manufacturing Website
 
 A professional, modern website for Shamim Enterprise built with React, TypeScript, and Tailwind CSS. The website showcases precision-engineered rubber parts, rollers, and custom manufacturing solutions.
-
+* We Create [Goal Idea](idea.md)
 ## 🎯 Features
 
 ### Core Pages
