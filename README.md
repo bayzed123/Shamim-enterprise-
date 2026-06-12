@@ -1,8 +1,7 @@
-# Shamim-enterprise-
 # Shamim Enterprise - Industrial Manufacturing Website
 
 A professional, modern website for Shamim Enterprise built with React, TypeScript, and Tailwind CSS. The website showcases precision-engineered rubber parts, rollers, and custom manufacturing solutions.
-* We Create [Goal Idea](idea.md)
+
 ## 🎯 Features
 
 ### Core Pages
@@ -118,14 +117,14 @@ The quote calculator provides real-time pricing based on:
 ### WhatsApp Integration
 All contact forms and CTAs integrate with WhatsApp for instant communication:
 - WhatsApp Business: +880 1854-212126
--  link: https://wa.me/c/8801854212126
-- WhatsApp link https://wa.me/message/7NWNUGK4LSYOI1
+- Direct link: https://wa.me/c/8801854212126
+
 ### Contact Information
 - **Phone**: 01854-212126
-- **Email**: confidentrubber@gmail.com
-- **Location**: BangladeshNawabpur Rd, Dhaka, Bangladesh
+- **Email**: info@shamimenterprises.com
+- **Location**: Bangladesh
 - **Hours**: 24/7 Support via WhatsApp
-- **Map link**: https://maps.app.goo.gl/weVesNvcdY5qQnBp8
+
 ## 📱 Responsive Breakpoints
 
 - **Mobile**: < 640px
@@ -196,7 +195,7 @@ git push origin main
 3. Enable HTTPS in repository settings
 
 ## 📈 SEO Optimization
-- Schecma Geo tage industry tage 
+
 - Meta tags in `client/index.html`
 - Semantic HTML structure
 - Mobile-friendly responsive design
@@ -228,7 +227,7 @@ pnpm format
 ```
 
 ## 📝 License
-Developer Sayad Md Bayezid Hosan - ( www.sayadbayezid.com) Contribute Manus ai 
+
 This project is proprietary to Shamim Enterprise. All rights reserved.
 
 ## 👥 Support
@@ -242,22 +241,3 @@ For support and inquiries:
 
 **Last Updated**: June 2026
 **Version**: 1.0.0
-
-Shamim Enterprise Silicone Rubber Parts, O-Ring, Gasket, Washer, Pressure Roller, Printing Roller, Fusing Machine Roller এবং Conveyor Roller।
-```/
-├── Home
-├── Products
-│   ├── O-Rings
-│   ├── Gaskets
-│   ├── Rollers
-│   └── Custom Parts
-├── Custom Manufacturing
-├── Quote Calculator
-├── RFQ
-├── Industries
-├── Gallery
-├── Blog
-├── About
-├── Contact
-├── Dashboard
-└── Github ```
